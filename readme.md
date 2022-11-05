@@ -1,13 +1,14 @@
 This repository contains links of all the example apps created using flutter and dart.
 ## UI-Cloned Apps (Source Codes)</h1>
 1. [BurgerHouse App](https://github.com/shuvam-koirala/BurgerHouse-UI-clone)
-2. [Snake Game App](https://github.com/shuvam-koirala/Snakegame-App-Clone)
-3. [Esewa App](https://github.com/shuvam-koirala/esewaUI-App)
-4. [Calculator App](https://github.com/shuvam-koirala/fluttercalculatorUI)
+2. [Esewa App](https://github.com/shuvam-koirala/esewaUI-App)
 ## UI-Design Apps (Source Codes)</h1>
+1. [Snake Game App](https://github.com/shuvam-koirala/Snakegame-App-Clone)
+2. [Calculator App](https://github.com/shuvam-koirala/fluttercalculatorUI)
 ## Functional Apps (Source Codes)</h1>
 1. [Flutter Starter App](https://github.com/shuvam-koirala/flutter_starter_app)
 2. [Corona Tracker App](https://github.com/shuvam-koirala/track_corona)
+3. [Quizzler Game App](https://github.com/shuvam-koirala/QuizApp-flutter)
 
 ## Created & Maintained By
 
