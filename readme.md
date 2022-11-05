@@ -2,6 +2,7 @@ This repository contains links of all the example apps created using flutter and
 ## UI-Cloned Apps (Source Codes)
 1. [BurgerHouse App](https://github.com/shuvam-koirala/BurgerHouse-UI-clone)
 2. [Esewa App](https://github.com/shuvam-koirala/esewaUI-App)
+3. [EverestBank App](https://github.com/shuvam-koirala/EverestBank-UI-Clone)
 ## UI-Design Apps (Source Codes)
 1. [Snake Game App](https://github.com/shuvam-koirala/Snakegame-App-Clone)
 2. [Calculator App](https://github.com/shuvam-koirala/fluttercalculatorUI)
