@@ -10,6 +10,7 @@ This repository contains links of all the example apps created using flutter and
 2. [Corona Tracker App](https://github.com/shuvam-koirala/track_corona)
 3. [Quizzler Game App](https://github.com/shuvam-koirala/QuizApp-flutter)
 4. [RollDice Game App](https://github.com/shuvam-koirala/RollDice)
+5. [Magic8Ball Game App](https://github.com/shuvam-koirala/Magic8Ball-flutter-)
 ## Published Apps (Playstore Links)
 ## Created & Maintained By
 
