@@ -1,6 +1,6 @@
 This repository contains links of all the example apps created using flutter and dart.
 ## UI-Cloned Apps (Source Codes)</h1>
-1. [Burger House App](https://github.com/shuvam-koirala/BurgerHouse-UI-clone)
+1. [BurgerHouse App](https://github.com/shuvam-koirala/BurgerHouse-UI-clone)
 2. [Snake Game App](https://github.com/shuvam-koirala/Snakegame-App-Clone)
 3. [Esewa App](https://github.com/shuvam-koirala/esewaUI-App)
 4. [Calculator App](https://github.com/shuvam-koirala/fluttercalculatorUI)
