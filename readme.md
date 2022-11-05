@@ -9,6 +9,7 @@ This repository contains links of all the example apps created using flutter and
 1. [Flutter Starter App](https://github.com/shuvam-koirala/flutter_starter_app)
 2. [Corona Tracker App](https://github.com/shuvam-koirala/track_corona)
 3. [Quizzler Game App](https://github.com/shuvam-koirala/QuizApp-flutter)
+4. [RollDice Game App](https://github.com/shuvam-koirala/RollDice)
 
 ## Created & Maintained By
 
