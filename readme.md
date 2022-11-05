@@ -14,6 +14,7 @@ This repository contains links of all the example apps created using flutter and
 4. [RollDice Game App](https://github.com/shuvam-koirala/RollDice)
 5. [Magic8Ball Game App](https://github.com/shuvam-koirala/Magic8Ball-flutter-)
 ## Published Apps (Playstore Links)
+1. [GyankaKura App](https://play.google.com/store/apps/details?id=com.kocoder.gyankakura)
 ## Created & Maintained By
 
 [@Shuvam Koirala](https://github.com/shuvam-koirala) ([Linkedin](https://www.linkedin.com/in/shuvam-koirala "LinkedIn Shuvam Koirala")) ([Youtube](https://www.youtube.com/channel/UCxei3a_ocUPux_foujUxYUg)) ([Medium](https://medium.com/@suvamkoirala08 "Medium Shuvam Koirala")) ([Facebook](https://www.facebook.com/shuvu00 "Facebook Shuvam Koirala")) ([Instagram](https://www.instagram.com/shuvu1112 "Instagram Shuvam Koirala")) ([Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshuvam-koirala&screen_name=koirala_shuvam "Twitter Shuvam Koirala"))
