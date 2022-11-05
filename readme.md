@@ -15,7 +15,7 @@ This repository contains links of all the example apps created using flutter and
 5. [Magic8Ball Game App](https://github.com/shuvam-koirala/Magic8Ball-flutter-)
 ## Published Apps (Playstore Links)
 1. [GyankaKura App](https://play.google.com/store/apps/details?id=com.kocoder.gyankakura)
-<img src="https://play-lh.googleusercontent.com/nrXKHaTvG2NJWi1U6e3j7L1C_awyOx-TOAbt5bPhw2Sxhp3YCRVARTRDLhlX57bNlA=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" /> <img src="https://play-lh.googleusercontent.com/MSWrYwoczqR3jmiadieRAMGrmXYamUjgKaeE-2Vh67mwyIk-PVM4LwhzItx7LLq6_is=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" />
+> <img src="https://play-lh.googleusercontent.com/nrXKHaTvG2NJWi1U6e3j7L1C_awyOx-TOAbt5bPhw2Sxhp3YCRVARTRDLhlX57bNlA=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" /> <img src="https://play-lh.googleusercontent.com/MSWrYwoczqR3jmiadieRAMGrmXYamUjgKaeE-2Vh67mwyIk-PVM4LwhzItx7LLq6_is=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" />
 ## Created & Maintained By
 
 [@Shuvam Koirala](https://github.com/shuvam-koirala) ([Linkedin](https://www.linkedin.com/in/shuvam-koirala "LinkedIn Shuvam Koirala")) ([Youtube](https://www.youtube.com/channel/UCxei3a_ocUPux_foujUxYUg)) ([Medium](https://medium.com/@suvamkoirala08 "Medium Shuvam Koirala")) ([Facebook](https://www.facebook.com/shuvu00 "Facebook Shuvam Koirala")) ([Instagram](https://www.instagram.com/shuvu1112 "Instagram Shuvam Koirala")) ([Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshuvam-koirala&screen_name=koirala_shuvam "Twitter Shuvam Koirala"))
