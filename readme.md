@@ -19,6 +19,8 @@ This repository contains links of all the example apps created using flutter and
 ## Client Apps (Playstore Links)
 1. [HealLive App](https://play.google.com/store/apps/details?id=com.spellinnovation.heallive&hl=en&gl=US)
 > <img src="https://play-lh.googleusercontent.com/U-5FHj8W9ZG7fSbu_fYyVT8e-KqHlF7h_jU9BzbE1gUxb828q_J-CB38v8WpMo9z3w=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" /> <img src="https://play-lh.googleusercontent.com/HuSueavVMTYEXF8jHU5TIwpOHEhu5jBUmY_PRLK8bCGUCL2b3h_5HmMuh9k5wvFL0hs=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" /> <img src="https://play-lh.googleusercontent.com/ojybMPiNPuVs59s7Of2LtSV5tXFog4Msv9p_MMaQjYPnh0Nt2QVqnpGlcq_dYVuW33M=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" />
+2. [Sarathi Student App](https://play.google.com/store/apps/details?id=com.spellInnovation.sarathi&hl=en&gl=US)
+> <img src="https://play-lh.googleusercontent.com/v2QuLvQH1YvYQbDhfBSVYMG_HWYKlqdn4lafQEPsaEEqTg8Xw59uS0UFMTWkGnwUlqAP=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" /> <img src="https://play-lh.googleusercontent.com/XpohLlacNWuHvQzKsz881iDT9HtjPSmOzJrE9LG-xMtYYj5bqKtp4zUjZsUZtU7Y-7A=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" /> <img src="https://play-lh.googleusercontent.com/MjsG013Xc_TEc_e_ObpQolReDBuqs3EF5HNPN0FdKlHMJeZc39fpSQeyvbO6-xIyKlA=w2560-h1440-rw" alt="Markdown Monster icon" height="400em" />
 
 ## Created & Maintained By
 
