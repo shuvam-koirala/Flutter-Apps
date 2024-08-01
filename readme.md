@@ -1,4 +1,4 @@
-This repository contains links of all the example apps created using flutter and dart.
+This repository contains links to all the flutter projects that i have worked on.
 
 ## Professional Projects (Playstore Links)
 1.[BusSewa App](https://play.google.com/store/apps/details?id=com.diyalo.bussewa&hl=en)
